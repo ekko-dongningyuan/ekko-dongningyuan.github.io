@@ -1,6 +1,6 @@
 const photos = [
     { src: 'photo1.jpg', thumb: 'thumb_photo1.jpg', caption: 'ChongQing' },
-    { src: 'photo2.jpg', thumb: 'thumb_photo2.jpg', caption: 'HangZhou XiHu' },
+    { src: 'photo2.jpg', thumb: 'thumb_photo2.jpg', caption: 'TianJin' },
     // Add more photos here
 ];
 
